@@ -3,6 +3,9 @@ Sandbox where the master participants can play with GIT
 
 Current:
 - Unix commands reference.
+- First steps: Playing with OpenCV Library. Look at webcam_capture project. 
+  https://github.com/beta-robots/webcam_capture
+
 
 Future:
 - vi commands reference?
